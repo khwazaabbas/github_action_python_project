@@ -1,3 +1,4 @@
 pytest
 pyttsx3
 flake8
+pytest-cov
